@@ -1,0 +1,1 @@
+this sentence has three a’s, two c’s, two d’s, twenty-eight e’s, four f’s, four g’s, ten h’s, eight i’s, two l’s, eleven n’s, six o’s, seven r’s, twenty-seven s’s, eighteen t’s, three u’s, five v’s, six w’s, three x’s, and three y’s.
